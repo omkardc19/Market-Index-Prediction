@@ -1,1 +1,1 @@
-# Market-Index-Predictrion
+# Market-Index-Prediction
