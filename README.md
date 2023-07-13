@@ -1,5 +1,3 @@
-Name: Omkar Chavan
-Roll No.: 210280
 
 # Market Index Prediction using LSTM Model
 
