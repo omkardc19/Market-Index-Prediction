@@ -3,7 +3,7 @@
 
 -This project focuses on predicting the closing prices of a stock based on the last 50 days of data using a Long Short-Term Memory (LSTM) model. The LSTM model is a type of recurrent neural network (RNN) that is well-suited for sequential data analysis, making it an excellent choice for time series forecasting tasks such as stock price prediction.
 
-##Libraries required to run the code:
+## Libraries required to run the code:
 1. Pandas
 2. Numpy
 3. scikit-learn
